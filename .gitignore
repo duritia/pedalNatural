@@ -1,0 +1,13 @@
+# ignora TODOS os arquivos com extensão .log, em qualquer diretório
+*.log
+
+# Ignorar TODAS as pastas 'temp', em qualquer diretório
+temp/
+
+# https://www.w3schools.com/git/git_ignore.asp
+
+# Ignora o arquivo de segurança do LibreOffice quando está com o arquivo
+# 'projeto em alto nível.odt' aberto localmente
+.~lock.projeto em alto nível.odt#
+
+# vim: fileencoding=utf-8: expandtab: shiftwidth=4: tabstop=8: softtabstop=4

@@ -1,0 +1,9 @@
+1. Criar o repo no github.
+1.a. Adicionar a parceria no repositório, com permissões para contribuir
+2. Clonar o repo localmente.
+3. Copiar os arquivos para o diretório local e adicioná-los no git (git add).
+4. Commit e push em todo o código.
+5. Criar as issues com o que falta e trabalhar nelas.
+6. Trazer as dúvidas na próxima quarta.
+
+# vim: fileencoding=utf-8: expandtab: shiftwidth=4: tabstop=8: softtabstop=4
